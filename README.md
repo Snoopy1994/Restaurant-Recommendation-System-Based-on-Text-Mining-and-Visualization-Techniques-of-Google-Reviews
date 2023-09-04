@@ -20,4 +20,4 @@ _Social Media, Text Mining, Machine Learning, Sentiment Analysis, Recommendation
 
 **System Link**
 
-[Microsoft PowerBI Link}(https://app.powerbi.com/view?r=eyJrIjoiZmFkOTFkMGItYTZhYy00MjEzLTljZTYtMDU1YzFmNmE3NzQ3IiwidCI6ImRjNjhjODM4LTEyMWUtNDI1MS04ZWRjLTIwMmE5N2NmZjJkMCIsImMiOjEwfQ%3D%3D&pageName=ReportSection319d6ddd17e096696166)
+[Microsoft PowerBI Link](https://app.powerbi.com/view?r=eyJrIjoiZmFkOTFkMGItYTZhYy00MjEzLTljZTYtMDU1YzFmNmE3NzQ3IiwidCI6ImRjNjhjODM4LTEyMWUtNDI1MS04ZWRjLTIwMmE5N2NmZjJkMCIsImMiOjEwfQ%3D%3D&pageName=ReportSection319d6ddd17e096696166)
